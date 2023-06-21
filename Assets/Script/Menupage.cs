@@ -6,13 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class Menupage : MonoBehaviour
 {   
-    void Start()
-    {  
-        
-    }
-       
-   
-   
     
     public void PlayBtn()
     {

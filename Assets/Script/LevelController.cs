@@ -1,10 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using TMPro;
-using System;
-using StartApp;
+
 
 public class LevelController : MonoBehaviour
 {   private Scene levelSelected;
@@ -32,7 +28,7 @@ public class LevelController : MonoBehaviour
     public void Conttn() 
     {
           scoresystem.canRunTheScore = true;  
-          AdSdk.Instance.ShowDefaultAd();
+          //AdSdk.Instance.ShowDefaultAd();
           gameObject.SetActive(false); 
           
           FindObjectOfType<PlayerController>().ContinueGame();
