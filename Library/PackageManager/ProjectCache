@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638428327223370821
-    m_Hash: 1381440071
+      ticks: 638428342558331930
+    m_Hash: 1536353432
   m_LockFileStatus:
     m_FilePath: D:/Game Developement/snowboard/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638428327223406277
-    m_Hash: 3477113644
+      ticks: 638428342558364662
+    m_Hash: 2917326972
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,68 @@ m_LocalPackages:
 m_ProjectPath: D:/Game Developement/snowboard/Packages
 m_EditorVersion: 2022.3.8f1 (b5eafc012955)
 m_ResolvedPackages:
+- packageId: com.unidi.unidi@https://github.com/UniDi/UniDi.git
+  testable: 0
+  isDirectDependency: 1
+  version: 0.1.0-preview.1
+  source: 5
+  resolvedPath: D:\Game Developement\snowboard\Library\PackageCache\com.unidi.unidi@9d84a2e571
+  assetPath: Packages/com.unidi.unidi
+  name: com.unidi.unidi
+  displayName: UniDi
+  author:
+    name: UniDi Dependency Injection
+    email: mathijs.unityassets@gmail.com
+    url: unidi.github.io
+  category: 
+  type: 
+  description: "UniDi is dependency injection container for Unity. It manages the
+    dependencies between objects so that your games remains easy to change as they
+    grow in size and complexity.\n\n UniDi uses a familiar set of binding instructions
+    like Zenject/Extenject. To learn more about the differences between the frameworks
+    and how to migrate, please visit unidi.github.io website."
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - UniDi
+  - Dependency Injection
+  - DI
+  - IoC
+  - Zenject
+  - Extenject
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.2d.animation@9.0.3
   testable: 0
   isDirectDependency: 1
@@ -858,12 +920,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.cinemachine@2.9.5
+- packageId: com.unity.cinemachine@2.9.7
   testable: 0
   isDirectDependency: 1
-  version: 2.9.5
+  version: 2.9.7
   source: 1
-  resolvedPath: D:\Game Developement\snowboard\Library\PackageCache\com.unity.cinemachine@2.9.5
+  resolvedPath: D:\Game Developement\snowboard\Library\PackageCache\com.unity.cinemachine@2.9.7
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -1013,13 +1075,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638102365180000000
+  datePublishedTicks: 638191355130000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@2.9/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
-    revision: 4b4405b9505ecfa1cb2d2b03df8f3309c12f3b0d
+    revision: 46485ca80113434766f2b256525bb98def548fb9
     path: 
   unityLifecycle:
     version: 2.9.5

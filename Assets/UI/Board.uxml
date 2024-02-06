@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Button.uss?fileID=7433441132597879392&amp;guid=4e664d5146af5b34c9986a04cf4129e3&amp;type=3#Button" />
+    <ui:VisualElement style="flex-grow: 1; position: relative; align-items: center; justify-content: center; align-self: center;">
+        <ui:Button text="Start" parse-escape-sequences="true" display-tooltip-when-elided="true" name="startbtn" class="button" style="-unity-font-style: bold; font-size: 20px; text-overflow: clip;" />
+        <ui:Button text="Setting" parse-escape-sequences="true" display-tooltip-when-elided="true" name="settingbtn" class="button" style="-unity-font-style: bold; font-size: 20px;" />
+        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="quitbtn" class="button" style="-unity-font-style: bold; font-size: 20px;" />
+    </ui:VisualElement>
+</ui:UXML>
