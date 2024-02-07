@@ -1,7 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour
 {
@@ -11,5 +10,10 @@ public class UIManager : MonoBehaviour
     Button startBtn = ui.Q<Button>("startbtn");
     Button settingtBtn = ui.Q<Button>("settingbtn");
     Button quitBtn = ui.Q<Button>("quitbtn");
+
+    startBtn.clicked +=  () =>SceneManager.LoadScene(1);
+    settingtBtn.clicked += () => SceneManager.LoadScene(2);
+    quitBtn.clicked += () => Application.Quit();
    }
+  
 }
