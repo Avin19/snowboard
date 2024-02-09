@@ -435,7 +435,6 @@
 "Assets/Script/Isads.cs"
 "Assets/Script/LevelController.cs"
 "Assets/Script/levelselectpage.cs"
-"Assets/Script/Menupage.cs"
 "Assets/Script/Music.cs"
 "Assets/Script/PlayerController.cs"
 "Assets/Script/Scoresystem.cs"
@@ -473,6 +472,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/UI/LevelUIManager.cs"
 "Assets/UI/UIManager.cs"
 -langversion:9.0
 

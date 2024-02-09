@@ -64,7 +64,6 @@
     <Analyzer Include="D:\Unity\2022.3.8f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Menupage.cs" />
     <Compile Include="Assets\IronSource\Scripts\IUnitySegment.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\IronSource\Scripts\IronSourceImpressionData.cs" />
@@ -148,6 +147,7 @@
     <Compile Include="Assets\IronSource\Scripts\AndroidAgent.cs" />
     <Compile Include="Assets\IronSource\Scripts\IronSourceUtils.cs" />
     <Compile Include="Assets\IronSource\Scripts\IronSourceInitilizer.cs" />
+    <Compile Include="Assets\UI\LevelUIManager.cs" />
     <Compile Include="Assets\IronSource\Scripts\IUnityOfferwall.cs" />
     <Compile Include="Assets\IronSource\Scripts\IUnityLevelPlayBanner.cs" />
     <Compile Include="Assets\IronSource\Scripts\IronSourceAdInfo.cs" />
@@ -177,6 +177,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\UI\Menubutton.uss" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Resources\StartAppDataiOS.txt" />
