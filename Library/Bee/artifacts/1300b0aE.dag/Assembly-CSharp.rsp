@@ -427,6 +427,7 @@
 "Assets/IronSource/Scripts/IUnitySegment.cs"
 "Assets/IronSource/Scripts/UnsupportedPlatformAgent.cs"
 "Assets/IronSource/Scripts/WaterfallConfiguration.cs"
+"Assets/Script/CloudMovement.cs"
 "Assets/Script/Crash.cs"
 "Assets/Script/DashTrail.cs"
 "Assets/Script/FinishLine.cs"
@@ -438,6 +439,7 @@
 "Assets/Script/Music.cs"
 "Assets/Script/PlayerController.cs"
 "Assets/Script/Scoresystem.cs"
+"Assets/Script/SplineGenerator.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
@@ -472,7 +474,6 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
-"Assets/UI/LevelUIManager.cs"
 "Assets/UI/UIManager.cs"
 -langversion:9.0
 

@@ -36,6 +36,6 @@ public class LevelController : MonoBehaviour
     }
     public void ReturnToMenu()
     {
-        SceneManager.LoadScene("LevelSelect");
+        SceneManager.LoadScene(0);
     }
 }

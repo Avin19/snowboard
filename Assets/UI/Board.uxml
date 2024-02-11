@@ -1,8 +1,8 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/UI/Menubutton.uss?fileID=7433441132597879392&amp;guid=f88cb975baad0164c8bbb69479315b06&amp;type=3#Menubutton" />
+    <Style src="project://database/Assets/UI/Style.uss?fileID=7433441132597879392&amp;guid=e31ecaa976d6faa4c9b21f453d92925a&amp;type=3#Style" />
     <ui:VisualElement style="flex-grow: 1; position: relative; align-items: center; justify-content: center; align-self: auto; white-space: normal;">
-        <ui:Button text="Start" parse-escape-sequences="true" display-tooltip-when-elided="true" name="startbtn" class="button" style="-unity-font-style: bold; font-size: 20px; text-overflow: clip; -unity-text-align: middle-center;" />
-        <ui:Button text="Setting" parse-escape-sequences="true" display-tooltip-when-elided="true" name="settingbtn" class="button" style="-unity-font-style: bold; font-size: 20px;" />
-        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="quitbtn" class="button" style="-unity-font-style: bold; font-size: 20px;" />
+        <ui:Button text="Start" parse-escape-sequences="true" display-tooltip-when-elided="true" name="startbtn" class="button buttton" style="-unity-font-style: bold; font-size: 20px; text-overflow: clip; -unity-text-align: middle-center;" />
+        <ui:Button text="Setting" parse-escape-sequences="true" display-tooltip-when-elided="true" name="settingbtn" class="button buttton" style="-unity-font-style: bold; font-size: 20px;" />
+        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="quitbtn" class="button buttton" style="-unity-font-style: bold; font-size: 20px;" />
     </ui:VisualElement>
 </ui:UXML>
